@@ -9,14 +9,6 @@ An interactive personal-finance analytics application combining leakage-safe tim
 
 > **Portfolio project:** All demonstration data is synthetic. This application does not provide professional financial advice.
 
-## Live Demo
-
-**Streamlit application:** Add the deployed application URL here.
-
-```text
-https://your-streamlit-app-url.streamlit.app
-```
-
 ## Application Preview
 
 ### Financial Overview

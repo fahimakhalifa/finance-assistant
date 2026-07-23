@@ -1,6 +1,6 @@
 # Finance Intelligence Assistant
 
-![CI](https://github.com/fahimakhalifa/finance-assistant-project/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/fahimakhalifa/finance-assistant/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Application-red)
 ![License](https://img.shields.io/badge/License-MIT-green)

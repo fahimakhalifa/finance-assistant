@@ -188,7 +188,7 @@ finance-assistant-project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/fahimakhalifa/finance-assistant-project.git
+git clone https://github.com/fahimakhalifa/finance-assistant.git
 cd finance-assistant-project
 ```
 

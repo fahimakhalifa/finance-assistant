@@ -1,0 +1,33 @@
+# Environment and secrets
+.env
+.streamlit/secrets.toml
+
+# Runtime user data
+data/user_dumps/
+data/user_settings/
+user_models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.ruff_cache/
+
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp

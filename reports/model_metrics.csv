@@ -1,0 +1,10 @@
+category,train_rows,test_rows,model_mae,baseline_mae
+Education,184,57,7.8138,10.8232
+Entertainment,247,72,5.8296,7.1307
+Market,852,276,9.0698,11.6337
+Others,337,82,5.8261,8.1452
+Rent,1227,326,15.4063,19.4825
+Restaurants,748,207,12.5577,15.7333
+Shopping,641,167,11.3273,14.0255
+Transport,248,75,6.4581,8.5655
+Utilities,121,37,2.5773,3.5443

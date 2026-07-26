@@ -135,7 +135,7 @@ When a trained model is unavailable, the application falls back to a recent-aver
 ## Project Structure
 
 ```text
-finance-assistant-project/
+finance-assistant/
 ├── .github/
 │   └── workflows/
 │       └── ci.yml
